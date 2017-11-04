@@ -1,0 +1,14 @@
+h1 {
+	text-align: center;
+}
+.jumbotron {
+	background-color: DarkCyan;
+	color: white;
+}
+.panel {
+	border: 1px solid DarkCyan;
+}
+.panel-heading {
+	background-color: DarkCyan;
+	color: white;
+}
